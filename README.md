@@ -1,8 +1,8 @@
 # CE2SH4-Lab1-starter
 COMPENG 2SH4 - Spring 2024
 
-Name: [Insert your full name here in format: Last name, First name]
+Name: Shabab Ashraf
 
-MacID: [Insert your macID here]
+MacID: ashras16
 
-Student No.: [Insert your numerical 9-digit McMaster student number here]
+Student No.: 400467458
